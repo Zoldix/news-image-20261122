@@ -2,8 +2,8 @@
 """Entry for make.fun news-image-20261122: copy the front page to /output.
 
 The image (entry.png, 1024x1024, hand-drawn with Pillow by the builder)
-sums up the world's news of Sunday 22 November 2026: 32 dated stories
-across 7 regions, led by the COP31 deal taking shape in Antalya.
+sums up the world's news of Sunday 22 November 2026: 7 dated stories
+across 4 regions, led by the COP31 deal taking shape in Antalya.
 Standard library only; deterministic: the same bytes every run.
 """
 import os
